@@ -1,2 +1,2 @@
-# 1er desafio obligatorio-JavaScript
+# Pruebas-JavaScript
 
